@@ -7,6 +7,7 @@ public class Example {
 		System.out.println("Added code to feature branch.");
 System.out.println("Added for Eclipse");
 System.out.println("FB-02 added");
+System.out.println("Commit to test.");
 	}
 
 }
